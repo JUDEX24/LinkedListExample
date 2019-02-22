@@ -14,3 +14,5 @@ bool IsEmpty (List );
 void  Insert (DataType, List&);
 void  Delete (DataType, List&); 
 void  ShowData (List);
+
+//comment added as exercise working with git GUI
